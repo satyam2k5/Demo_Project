@@ -1,0 +1,5 @@
+body { padding-top: 60px; }
+.card { box-shadow: 0 6px 18px rgba(0,0,0,0.08); }
+.form-label { font-weight: 600; }
+.container-small { max-width: 540px; }
+.info-row { margin-bottom: 8px; }
